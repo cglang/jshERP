@@ -15,7 +15,7 @@ if [ ! -x "$LOGS_HOME" ]
 then
   mkdir $LOGS_HOME
 fi
-chmod +x -R "$JAVA_HOME/bin/"
+# chmod +x -R "$JAVA_HOME/bin/"
 functions="/etc/functions.sh"
 if test -f $functions ; then
   . $functions
