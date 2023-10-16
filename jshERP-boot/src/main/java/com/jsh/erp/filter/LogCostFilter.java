@@ -13,10 +13,10 @@ import java.io.IOException;
 
 @WebFilter(filterName = "LogCostFilter", urlPatterns = {"/*"},
         initParams = {@WebInitParam(name = "filterPath",
-                      value = "/jshERP-boot/user/login#/jshERP-boot/user/weixinLogin#/jshERP-boot/user/weixinBind#" +
-                              "/jshERP-boot/user/registerUser#/jshERP-boot/user/randomImage#" +
-                              "/jshERP-boot/platformConfig/getPlatform#/jshERP-boot/v2/api-docs#/jshERP-boot/webjars#" +
-                              "/jshERP-boot/systemConfig/static#/jshERP-boot/api/plugin/wechat/weChat/share")})
+                      value = "/51ERP-boot/user/login#/51ERP-boot/user/weixinLogin#/51ERP-boot/user/weixinBind#" +
+                              "/51ERP-boot/user/registerUser#/51ERP-boot/user/randomImage#" +
+                              "/51ERP-boot/platformConfig/getPlatform#/51ERP-boot/v2/api-docs#/51ERP-boot/webjars#" +
+                              "/51ERP-boot/systemConfig/static#/51ERP-boot/api/plugin/wechat/weChat/share")})
 public class LogCostFilter implements Filter {
 
     private static final String FILTER_PATH = "filterPath";

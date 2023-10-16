@@ -18,7 +18,7 @@ import java.util.List;
 import java.util.Map;
 
 /**
- * @author ji sheng hua jshERP
+ * @author ji sheng hua 51ERP
  */
 @RestController
 @RequestMapping(value = "/msg")

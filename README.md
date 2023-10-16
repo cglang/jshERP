@@ -1,8 +1,8 @@
 # 项目总述
-* 很多人说华夏ERP（英文名：jshERP）是目前人气领先的国产ERP系统
+* 很多人说蜗牛ERP（英文名：51ERP）是目前人气领先的国产ERP系统
 * 虽然目前只有进销存+财务+生产的功能，但后面将会推出ERP的全部功能，有兴趣请帮点一下 **Star** 哦
-* **官网地址：http://www.huaxiaerp.com  商务或技术交流，请联系QQ：752718920 微信：shenhua861584**
-* 欢迎加入华夏ERP交流QQ群(入群帮安装)，群3：805736336(满)、群4：146571538
+* **官网地址：http://erp.cglang.com  商务或技术交流，请联系QQ：752718920 微信：shenhua861584**
+* 欢迎加入蜗牛ERP交流QQ群(入群帮安装)，群3：805736336(满)、群4：146571538
 
 # 网络版介绍
 * 推荐使用网络版（158元1年）淘宝链接：https://item.taobao.com/item.htm?id=674169489573
@@ -18,8 +18,8 @@
 * 如需更多功能，欢迎购买作者小店的插件 https://shop104070207.taobao.com/ 谢谢支持
 
 # 开发初衷
-* 华夏ERP立志为中小企业提供开源好用的ERP软件，降低企业的信息化成本
-* 个人开发者也可以使用华夏ERP进行二次开发，加快完成开发任务
+* 蜗牛ERP立志为中小企业提供开源好用的ERP软件，降低企业的信息化成本
+* 个人开发者也可以使用蜗牛ERP进行二次开发，加快完成开发任务
 * 初学JAVA的小伙伴可以下载源代码来进行学习交流
 
 # 技术框架
@@ -49,11 +49,11 @@
 * 操作系统：Windows、Linux等
 
 # 配套资料
-* 需要用户手册请访问这里 https://www.huaxiaerp.com/thread-393-1-1.html
+* 需要用户手册请访问这里 https://erp.cglang.com/thread-393-1-1.html
 * 喜欢视频教程可以看这里 https://space.bilibili.com/540003552/channel/series 
 * 为方便大家搭建运行环境，分享了下载地址 https://pan.baidu.com/s/1jlild9uyGdQ7H2yaMx76zw  提取码:814g
 * 不会打包的小伙伴，请下载此打包后的文件 https://share.weiyun.com/NDJNLhry 密码：vd3aig
-* 不会部署的小伙伴，请参考部署教程 http://www.huaxiaerp.com/thread-177-1-1.html
+* 不会部署的小伙伴，请参考部署教程 http://erp.cglang.com/thread-177-1-1.html
 * 部署后登录系统的默认租户账号：jsh，默认超管账户：admin，默认密码均为：123456
 
 # 开源说明
@@ -61,27 +61,27 @@
 
 # 系统美图
 * 首页
-![输入图片说明](jshERP-web/public/static/screenshot/1.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/1.jpg)
 * 零售管理
-![输入图片说明](jshERP-web/public/static/screenshot/2.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/2.jpg)
 * 采购管理
-![输入图片说明](jshERP-web/public/static/screenshot/3.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/3.jpg)
 * 销售管理
-![输入图片说明](jshERP-web/public/static/screenshot/4.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/4.jpg)
 * 仓库管理
-![输入图片说明](jshERP-web/public/static/screenshot/5.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/5.jpg)
 * 财务管理
-![输入图片说明](jshERP-web/public/static/screenshot/6.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/6.jpg)
 * 报表查询
-![输入图片说明](jshERP-web/public/static/screenshot/7.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/7.jpg)
 * 商品管理
-![输入图片说明](jshERP-web/public/static/screenshot/8.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/8.jpg)
 * 基本资料
-![输入图片说明](jshERP-web/public/static/screenshot/9.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/9.jpg)
 * 系统管理
-![输入图片说明](jshERP-web/public/static/screenshot/10.jpg)
+![输入图片说明](51ERP-web/public/static/screenshot/10.jpg)
 
 # 如何支持
-* 开源不易，坚持更难！如果您觉得华夏ERP不错，不用请作者喝咖啡。
+* 开源不易，坚持更难！如果您觉得蜗牛ERP不错，不用请作者喝咖啡。
 * 您只需将我们的云平台地址：https://cloud.huaxiaerp.com 发给您的家人或朋友，只要是开店的、办厂的、做批发的都可以用得上。
 * 这将是对我们开源最大的支持！在此表示感谢！

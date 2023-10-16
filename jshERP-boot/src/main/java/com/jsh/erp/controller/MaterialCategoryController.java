@@ -22,7 +22,7 @@ import javax.servlet.http.HttpServletRequest;
 import java.util.List;
 
 /**
- * @author ji—sheng—hua   jshERP
+ * @author ji—sheng—hua   51ERP
  */
 @RestController
 @RequestMapping(value = "/materialCategory")

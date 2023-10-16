@@ -3,12 +3,12 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jsh</groupId>
-	<artifactId>jshERP-boot</artifactId>
+	<artifactId>51ERP-boot</artifactId>
 	<version>3.0-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>jshERP-boot</name>
-	<description>华夏ERP</description>
+	<name>51ERP-boot</name>
+	<description>蜗牛ERP</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
@@ -111,7 +111,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>jshERP</finalName>
+		<finalName>51ERP</finalName>
 		<plugins>
 			<plugin>
 				<groupId>org.springframework.boot</groupId>

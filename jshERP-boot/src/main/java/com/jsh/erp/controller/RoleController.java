@@ -21,7 +21,7 @@ import java.util.Map;
 import static com.jsh.erp.utils.ResponseJsonUtil.returnJson;
 
 /**
- * @author ji sheng hua jshERP
+ * @author ji sheng hua 51ERP
  */
 @RestController
 @RequestMapping(value = "/role")
